@@ -6,8 +6,7 @@
 //  Copyright (c) 2012년 __MyCompanyName__. All rights reserved.
 //
 
-#import "BIUnitTestCase.h"
 
-@interface BISampleUnitTestCase : BIUnitTestCase
+@interface BISampleUnitTestCase : NSObject
 
 @end

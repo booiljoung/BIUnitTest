@@ -7,3 +7,4 @@
 //
 
 extern void BIUnitTestWithClassNamed(NSString *className);
+extern int BIParseAndRunArgumentsForUnitTest(int argc, char *argv[]);
